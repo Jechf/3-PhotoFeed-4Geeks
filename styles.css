@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    background: whitesmoke;
+    padding-left: 20%;
+}
+
+#imagen{    
+    height: 480px;
+    width: 640px;
+}
+
+
+.comentario{
+    padding: 5px;
+    font-size: 14px;
+    width: 390px;
+}
+
+.post{
+    font-family: 'Material Icons';
+    font-family: 'Roboto', sans-serif;
+    background-color: white ;
+    display: block;
+  
+    
+    }
+ 
+.postheader{
+    padding: 5px;
+    line-height:1px;
+    font-size: 12px;
+}
+
+
+
+.usuario{
+    display: inline-block;
+}
+
+.hamb{
+    float:right;
+}
+
+.foto{
+    font-family: sans-serif;
+    background-color:  white;
+}
